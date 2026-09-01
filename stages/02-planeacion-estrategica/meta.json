@@ -1,0 +1,12 @@
+{
+  "id": "stages-02-planeacion-de-las-medidas",
+  "title": "Planeación de las Medidas",
+  "authors": ["Nombre Apellido"],
+  "version": "0.1.0",
+  "status": "draft",
+  "created_at": "YYYY-MM-DDT00:00:00Z",
+  "updated_at": "YYYY-MM-DDT00:00:00Z",
+  "kpis": [{"id":"KPI-02","name":"Completeness","value":0,"target":100}],
+  "integrations": {"notion_page_id": null, "jira_epic": null},
+  "sensitive": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "stage-01-determinacion-UdA",
+  "title": "Determinación de la Unidad de Análisis",
+  "authors": ["Nombre Apellido"],
+  "version": "0.1.0",
+  "status": "draft",
+  "created_at": "YYYY-MM-DDT00:00:00Z",
+  "updated_at": "YYYY-MM-DDT00:00:00Z",
+  "kpis": [{"id":"KPI-01","name":"Completeness","value":0,"target":100}],
+  "integrations": {"notion_page_id": null, "jira_epic": null},
+  "sensitive": false
+}

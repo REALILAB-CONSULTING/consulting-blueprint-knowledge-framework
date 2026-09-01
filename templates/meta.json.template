@@ -1,0 +1,12 @@
+{
+  "id": "",
+  "title": "",
+  "authors": [],
+  "version": "0.1.0",
+  "status": "draft",
+  "created_at": "",
+  "updated_at": "",
+  "kpis": [{"id":"KPI-01","name":"Completeness","value":0,"target":100}],
+  "integrations": {"notion_page_id": null, "jira_epic": null},
+  "sensitive": false
+}

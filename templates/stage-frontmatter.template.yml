@@ -1,0 +1,20 @@
+---
+title: "Título del módulo"
+author: "Nombre Apellido"
+role: "Consultor"
+version: "0.1.0"
+status: "draft"          # draft | review | approved | archived
+created_at: "YYYY-MM-DD"
+updated_at: "YYYY-MM-DD"
+source: ""
+kpis:
+  - id: "KPI-01"
+    name: "Completeness"
+    value: 0
+    target: 100
+tags: []
+related_modules: []
+reviewers: []
+sensitive: false
+checksum: ""
+---
